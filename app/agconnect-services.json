@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"5190090000027617713",
+		"product_id":"736430079244766231",
+		"client_id":"531272042830365888",
+		"client_secret":"5CD69AF11B7A448CB538D5EF95D7466F5B228F333D9AB9062CD210BF3F4871B7",
+		"project_id":"736430079244766231",
+		"app_id":"103604527",
+		"api_key":"CgB6e3x9J9ZBHp4spXJZtp3gA34afdzkSIhrzxtu6qwzJAoyO5hiyEiGvXWW8PgSPOGpTrE9VTJOkA711PnKbVTm",
+		"package_name":"com.example.kalorikocum"
+	},
+	"configuration_version":"1.0"
+}
